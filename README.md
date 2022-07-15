@@ -1,7 +1,7 @@
 ### Olá, sou a Geovana Fernanda
 Trabalho com Back-end e design grafíco
 Estudo trpecript
-Sou fluente na língua Inlesa
+Sou fluente na língua Inglesa
 Domínio em banco e coleta de dados
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
